@@ -1,0 +1,17 @@
+body{
+	font-family:Arial;
+	font-size:12px;
+	color:#777777;
+	line-height:18px;
+}
+a{
+	color:#727272;
+	text-decoration:none;
+}
+.putong{
+	color:#b9f605;
+	font-size:14px;
+	font-weight:bold;
+}
+.chao{color:white;}
+.special{color:#fdb306;}
